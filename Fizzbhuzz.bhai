@@ -1,0 +1,22 @@
+hi bhai
+	bhai ye hai num = 0;
+	jab tak bhai (num < 101){
+		num = num + 1;
+		agar bhai (num % 5 == 0 && num % 3 == 0){
+			bol bhai num;
+			bol bhai "Fizzbuzz bhai";
+		}
+		agar bhai (num % 3 == 0){
+			bol bhai num;
+			bol bhai "Fizz bhai!";
+		}
+		agar bhai (num % 5 == 0){
+			bol bhai num;
+			bol bhai "Buzz bhai!";
+		}
+		agar bhai(num % 5 != 0 && num % 3 != 0){
+			bol bhai num;
+			bol bhai "Kuch nahi hai bhai";
+		}
+}
+bye bhai 
